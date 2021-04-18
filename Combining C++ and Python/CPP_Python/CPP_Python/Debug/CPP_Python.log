@@ -1,0 +1,3 @@
+﻿  Source.cpp
+\\apporto.com\dfs\SNHU\USERS\1814745_snhu\Desktop\CPP_Python\CPP_Python\Source.cpp(5,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  CPP_Python.vcxproj -> \\apporto.com\dfs\SNHU\USERS\1814745_snhu\Desktop\CPP_Python\Debug\CPP_Python.exe
